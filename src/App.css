@@ -1,0 +1,7 @@
+.tp {
+    border-top: 1px solid #ccc; /* Add a top border */
+    margin: 20px 0; /* Adjust the margin to control the spacing */
+    opacity: 0; /* Initially hide the separator */
+    transition: opacity 0.5s; /* Add a smooth opacity transition */
+  }
+  
