@@ -21,7 +21,7 @@ Purchase tokens for the desired property using your Ethereum wallet.
 Sell tokens by listing them for sale in the marketplace.
 
 ## Team :
-Nikhil Waghmode 
-Sujal Bagade
-Aditya Rekhe
-Dipanshu Wanjari
+Nikhil Waghmode , 
+Sujal Bagade ,
+Aditya Rekhe , 
+Dipanshu Wanjari.
